@@ -1,0 +1,15 @@
+Assignment name  : sort_int_tab
+Expected files   : sort_int_tab.c
+Allowed functions: 
+--------------------------------------------------------------------------------
+
+Écrire la fonction suivante:
+
+void sort_int_tab(int *tab, unsigned int size);
+
+Cette fonction doit trier (en place !) le tableau d'ints 'tab', qui contient
+exactement 'size' entrées, dans l'ordre croissant.
+
+Les doublons doivent être préservés.
+
+Les entrées seront toujours cohérentes.

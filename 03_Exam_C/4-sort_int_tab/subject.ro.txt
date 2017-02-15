@@ -1,0 +1,15 @@
+Exercitiu  : sort_int_tab
+Fisiere de iesire   : sort_int_tab.c
+Functii autorizate : 
+--------------------------------------------------------------------------------
+
+Scrieti functia urmatoare:
+
+	void sort_int_tab(int *tab, unsigned int size);
+
+Aceasta functie trebuie sa sorteze (pe loc!) tabloul de intregi tab, care contine 
+exact un numar size de elemente de intrare, in ordine crescatoare.
+
+Dublurile trebuie pastrate.
+
+Valorile de intrare vor fi intotdeauna coerente.

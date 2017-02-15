@@ -1,0 +1,51 @@
+Assignment name  : rpn_calc
+Expected files   : *.c, *.h
+Allowed functions: atoi, printf, write, malloc, free
+--------------------------------------------------------------------------------
+
+Ecrivez un programme qui prend en premier argument une chaine de caractères
+correspondant à une équation écrite en Notation Polonaise Inverse ou NPI,
+l'évalue et retourne le résultat sur la sortie standard suivi d'une newline.
+
+La Notation Polonaise Inverse est un système d'écriture d'opérations arithméti-
+ques qui consiste à placer les opérandes avant les opérateurs de telle
+sorte que pour chaque opérateur rencontré, les 2 opérandes précédents soient
+évalués et le résultat placé en lieu et place dans l'ordre de calcul. Les
+opérandes et les opérateurs doivent avoir au moins un espace entre eux.
+
+Vous devrez implémenter les opérateurs "+", "-", "*", "/" et "%".
+
+Si la chaine de caractères n'est pas valide ou qu'il n'y a pas un seul argument,
+vous devrez afficher "Error" sur la sortie standard, suivie d'une newline.
+
+Tous les opérandes de la chaine de caracteres doivent pouvoir etre contenues
+dans un int.
+
+Exemple de formules converties en NPI :
+
+3 + 4                   >>    3 4 +
+((1 * 2) * 3) - 4       >>    1 2 * 3 * 4 -  ou  3 1 2 * * 4 -
+50 * (5 - (10 / 9))     >>    5 10 9 / - 50 *
+
+Décomposition d'un calcul en NPI :
+
+1 2 * 3 * 4 -     (On évalue "1 2 *" et on remplace l'ensemble par 2)
+2 3 * 4 -         (On évalue "2 3 *" et on remplace l'ensemble par 6)
+6 4 -             (On évalue "6 4 -" et on remplace l'ensemble par 2) 
+2
+
+ou
+
+3 1 2 * * 4 -     (On évalue "1 2 *" et on remplace l'ensemble par 2)
+3 2 * 4 -         (On évalue "3 2 *" et on remplace l'ensemble par 6)
+6 4 -             (On évalue "6 4 -" et on remplace l'ensemble par 2)
+2
+
+Exemples :
+
+$> ./rpn_calc "1 2 * 3 * 4 +" | cat -e
+10$
+$> ./rpn_calc "1 2 3 4 +" | cat -e
+Error$
+$> ./rpn_calc |cat -e
+Error$

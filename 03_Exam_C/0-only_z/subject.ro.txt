@@ -1,0 +1,6 @@
+Assignment name  : only_z
+Expected files   : only_z.c
+Allowed functions: write
+--------------------------------------------------------------------------------
+
+Scrieti un program care afiseaza caracterul 'z' la iesirea standard.

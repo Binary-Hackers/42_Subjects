@@ -1,0 +1,1980 @@
+fileFormatVersion: 2
+guid: 7155528db6ca44281af03d8f01e20f5d
+timeCreated: 1432894274
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Marble Garden Zone_0
+    21300002: Marble Garden Zone_1
+    21300004: Marble Garden Zone_2
+    21300006: Marble Garden Zone_3
+    21300008: Marble Garden Zone_4
+    21300010: Marble Garden Zone_5
+    21300012: Marble Garden Zone_6
+    21300014: Marble Garden Zone_7
+    21300016: Marble Garden Zone_8
+    21300018: Marble Garden Zone_9
+    21300020: Marble Garden Zone_10
+    21300022: Marble Garden Zone_11
+    21300024: Marble Garden Zone_12
+    21300026: Marble Garden Zone_13
+    21300028: Marble Garden Zone_14
+    21300030: Marble Garden Zone_15
+    21300032: Marble Garden Zone_16
+    21300034: Marble Garden Zone_17
+    21300036: Marble Garden Zone_18
+    21300038: Marble Garden Zone_19
+    21300040: Marble Garden Zone_20
+    21300042: Marble Garden Zone_21
+    21300044: Marble Garden Zone_22
+    21300046: Marble Garden Zone_23
+    21300048: Marble Garden Zone_24
+    21300050: Marble Garden Zone_25
+    21300052: Marble Garden Zone_26
+    21300054: Marble Garden Zone_27
+    21300056: Marble Garden Zone_28
+    21300058: Marble Garden Zone_29
+    21300060: Marble Garden Zone_30
+    21300062: Marble Garden Zone_31
+    21300064: Marble Garden Zone_32
+    21300066: Marble Garden Zone_33
+    21300068: Marble Garden Zone_34
+    21300070: Marble Garden Zone_35
+    21300072: Marble Garden Zone_36
+    21300074: Marble Garden Zone_37
+    21300076: Marble Garden Zone_38
+    21300078: Marble Garden Zone_39
+    21300080: Marble Garden Zone_40
+    21300082: Marble Garden Zone_41
+    21300084: Marble Garden Zone_42
+    21300086: Marble Garden Zone_43
+    21300088: Marble Garden Zone_44
+    21300090: Marble Garden Zone_45
+    21300092: Marble Garden Zone_46
+    21300094: Marble Garden Zone_47
+    21300096: Marble Garden Zone_48
+    21300098: Marble Garden Zone_49
+    21300100: Marble Garden Zone_50
+    21300102: Marble Garden Zone_51
+    21300104: Marble Garden Zone_52
+    21300106: Marble Garden Zone_53
+    21300108: Marble Garden Zone_54
+    21300110: Marble Garden Zone_55
+    21300112: Marble Garden Zone_56
+    21300114: Marble Garden Zone_57
+    21300116: Marble Garden Zone_58
+    21300118: Marble Garden Zone_59
+    21300120: Marble Garden Zone_60
+    21300122: Marble Garden Zone_61
+    21300124: Marble Garden Zone_62
+    21300126: Marble Garden Zone_63
+    21300128: Marble Garden Zone_64
+    21300130: Marble Garden Zone_65
+    21300132: Marble Garden Zone_66
+    21300134: Marble Garden Zone_67
+    21300136: Marble Garden Zone_68
+    21300138: Marble Garden Zone_69
+    21300140: Marble Garden Zone_70
+    21300142: Marble Garden Zone_71
+    21300144: Marble Garden Zone_72
+    21300146: Marble Garden Zone_73
+    21300148: Marble Garden Zone_74
+    21300150: Marble Garden Zone_75
+    21300152: Marble Garden Zone_76
+    21300154: Marble Garden Zone_77
+    21300156: Marble Garden Zone_78
+    21300158: Marble Garden Zone_79
+    21300160: Marble Garden Zone_80
+    21300162: Marble Garden Zone_81
+    21300164: Marble Garden Zone_82
+    21300166: Marble Garden Zone_83
+    21300168: Marble Garden Zone_84
+    21300170: Marble Garden Zone_85
+    21300172: Marble Garden Zone_86
+    21300174: Marble Garden Zone_87
+    21300176: Marble Garden Zone_88
+    21300178: Marble Garden Zone_89
+    21300180: Marble Garden Zone_90
+    21300182: Marble Garden Zone_91
+    21300184: Marble Garden Zone_92
+    21300186: Marble Garden Zone_93
+    21300188: Marble Garden Zone_94
+    21300190: Marble Garden Zone_95
+    21300192: Marble Garden Zone_96
+    21300194: Marble Garden Zone_97
+    21300196: Marble Garden Zone_98
+    21300198: Marble Garden Zone_99
+    21300200: Marble Garden Zone_100
+    21300202: Marble Garden Zone_101
+    21300204: Marble Garden Zone_102
+    21300206: Marble Garden Zone_103
+    21300208: Marble Garden Zone_104
+    21300210: Marble Garden Zone_105
+    21300212: Marble Garden Zone_106
+    21300214: Marble Garden Zone_107
+    21300216: Marble Garden Zone_108
+    21300218: Marble Garden Zone_109
+    21300220: Marble Garden Zone_110
+    21300222: Marble Garden Zone_111
+    21300224: Marble Garden Zone_112
+    21300226: Marble Garden Zone_113
+    21300228: Marble Garden Zone_114
+    21300230: Marble Garden Zone_115
+    21300232: Marble Garden Zone_116
+    21300234: Marble Garden Zone_117
+    21300236: Marble Garden Zone_118
+    21300238: Marble Garden Zone_119
+    21300240: Marble Garden Zone_120
+    21300242: Marble Garden Zone_121
+    21300244: Marble Garden Zone_122
+    21300246: Marble Garden Zone_123
+    21300248: Marble Garden Zone_124
+    21300250: Marble Garden Zone_125
+    21300252: Marble Garden Zone_126
+    21300254: Marble Garden Zone_127
+    21300256: Marble Garden Zone_128
+    21300258: Marble Garden Zone_129
+    21300260: Marble Garden Zone_130
+    21300262: Marble Garden Zone_131
+    21300264: Marble Garden Zone_132
+    21300266: Marble Garden Zone_133
+    21300268: Marble Garden Zone_134
+    21300270: Marble Garden Zone_135
+    21300272: Marble Garden Zone_136
+    21300274: Marble Garden Zone_137
+    21300276: Marble Garden Zone_138
+    21300278: Marble Garden Zone_139
+    21300280: Marble Garden Zone_140
+    21300282: Marble Garden Zone_141
+    21300284: Marble Garden Zone_142
+    21300286: Marble Garden Zone_143
+    21300288: Marble Garden Zone_144
+    21300290: Marble Garden Zone_145
+    21300292: Marble Garden Zone_146
+    21300294: Marble Garden Zone_147
+    21300296: Marble Garden Zone_148
+    21300298: Marble Garden Zone_149
+    21300300: Marble Garden Zone_150
+    21300302: Marble Garden Zone_151
+    21300304: Marble Garden Zone_152
+    21300306: Marble Garden Zone_153
+    21300308: Marble Garden Zone_154
+    21300310: Marble Garden Zone_155
+    21300312: Marble Garden Zone_156
+    21300314: Marble Garden Zone_157
+    21300316: Marble Garden Zone_158
+    21300318: Marble Garden Zone_159
+    21300320: Marble Garden Zone_160
+    21300322: Marble Garden Zone_161
+    21300324: Marble Garden Zone_162
+    21300326: Marble Garden Zone_163
+    21300328: Marble Garden Zone_164
+    21300330: Marble Garden Zone_165
+    21300332: Marble Garden Zone_166
+    21300334: Marble Garden Zone_167
+    21300336: Marble Garden Zone_168
+    21300338: Marble Garden Zone_169
+    21300340: Marble Garden Zone_170
+    21300342: Marble Garden Zone_171
+    21300344: Marble Garden Zone_172
+    21300346: Marble Garden Zone_173
+    21300348: Marble Garden Zone_174
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 2
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 128
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Marble Garden Zone_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1991
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 2073
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_2
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 2068
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_3
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 2074
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_4
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2069
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_5
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 2034
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_6
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 2092
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_7
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 2068
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_8
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 2089
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_9
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 2089
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_10
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 2089
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_11
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 2089
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_12
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 2058
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_13
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 2058
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_14
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 2058
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_15
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1993
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_16
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1993
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_17
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1993
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_18
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 1993
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_19
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 2023
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_20
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 2021
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_21
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 2024
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_22
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2022
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_23
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 2064
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_24
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 2019
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_25
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1994
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_26
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 2017
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_27
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1993
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_28
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1993
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_29
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1993
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_30
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1997
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_31
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1997
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_32
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1997
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_33
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1997
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_34
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1993
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_35
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1937
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_36
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1937
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_37
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1937
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_38
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1938
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_39
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1904
+        width: 60
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_40
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1894
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_41
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1894
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_42
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1894
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_43
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1894
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_44
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1934
+        width: 7
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_45
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1934
+        width: 7
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_46
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1934
+        width: 7
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_47
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1934
+        width: 7
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_48
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1928
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_49
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1928
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_50
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1912
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_51
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1864
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_52
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1864
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_53
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 1864
+        width: 32
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_54
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1864
+        width: 32
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_55
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1864
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_56
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1839
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_57
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1839
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_58
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1783
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_59
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1735
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_60
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1735
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_61
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1798
+        width: 128
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_62
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1774
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_63
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1774
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_64
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1735
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_65
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 1735
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_66
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1736
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_67
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1650
+        width: 128
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_68
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1606
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_69
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1606
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_70
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1606
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_71
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1692
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_72
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1606
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_73
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1605
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_74
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 1605
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_75
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1541
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_76
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1541
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_77
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1541
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_78
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1559
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_79
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1559
+        width: 128
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_80
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1559
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_81
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1412
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_82
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1412
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_83
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1502
+        width: 72
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_84
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1502
+        width: 128
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_85
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1503
+        width: 72
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_86
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 1428
+        width: 72
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_87
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1428
+        width: 117
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_88
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1428
+        width: 117
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_89
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 1428
+        width: 72
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_90
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1347
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_91
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1347
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_92
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1373
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_93
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1373
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_94
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1373
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_95
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 1299
+        width: 72
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_96
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1299
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_97
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 1299
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_98
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 1299
+        width: 72
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_99
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1282
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_100
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1282
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_101
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1308
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_102
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1308
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_103
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1308
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_104
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1153
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_105
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1153
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_106
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1153
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_107
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1153
+        width: 128
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_108
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1153
+        width: 128
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_109
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1153
+        width: 128
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_110
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1153
+        width: 128
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_111
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 1153
+        width: 128
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_112
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 1153
+        width: 128
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_113
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_114
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_115
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_116
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1024
+        width: 128
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_117
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_118
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1024
+        width: 117
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_119
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1024
+        width: 117
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_120
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 920
+        width: 53
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_121
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 902
+        width: 128
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_122
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 998
+        width: 72
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_123
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 998
+        width: 72
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_124
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 791
+        width: 117
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_125
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 791
+        width: 117
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_126
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 902
+        width: 109
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_127
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 902
+        width: 85
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_128
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 869
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_129
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 869
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_130
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 662
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_131
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 662
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_132
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 773
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_133
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 773
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_134
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 773
+        width: 128
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_135
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 773
+        width: 128
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_136
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 773
+        width: 128
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_137
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 785
+        width: 53
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_138
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 648
+        width: 85
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_139
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 648
+        width: 109
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_140
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 648
+        width: 128
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_141
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 648
+        width: 117
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_142
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 656
+        width: 117
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_143
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 519
+        width: 128
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_144
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 519
+        width: 128
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_145
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 519
+        width: 128
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_146
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 519
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_147
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 519
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_148
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 519
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_149
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 527
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_150
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 390
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_151
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 390
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_152
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 390
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_153
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 390
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_154
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 390
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_155
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 390
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_156
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 390
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_157
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 390
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_158
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 261
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_159
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 261
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_160
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 261
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_161
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 261
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_162
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 261
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_163
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 261
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_164
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 261
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_165
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 261
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_166
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 132
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_167
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 132
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_168
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 132
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_169
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 132
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_170
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 3
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_171
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 3
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_172
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 3
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_173
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 3
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Marble Garden Zone_174
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 3
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

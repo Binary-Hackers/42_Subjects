@@ -1,0 +1,30 @@
+Exercitiu  : rotone
+Fisiere de iesire   : rotone.c
+Functii autorizate : write
+--------------------------------------------------------------------------------
+
+Scrieti un program numit rotone, ce ia ca parametru un sir de caractere si care 
+afiseaza acest sir inlocuind fiecare caracter alfabetic cu caracterul urmator 
+in ordine alfabetica.
+
+'z' devine 'a' si 'Z' devine 'A'. Majusculele raman majuscule, iar minusculele 
+raman minuscule.
+
+Afisarea se termina intotdeauna cu un retur de linie.
+
+Daca numarul de parametri transmis este diferit de 1, programul va afisa '\n'.
+
+Exemplu:
+
+$>./rotone "abc"
+bcd
+$>./rotone "Les stagiaires du staff ne sentent pas toujours tres bon." | cat -e
+Mft tubhjbjsft ev tubgg of tfoufou qbt upvkpvst usft cpo.$
+$>./rotone "AkjhZ zLKIJz , 23y " | cat -e
+BlkiA aMLJKa , 23z $
+$>./rotone | cat -e
+$
+$>
+$>./rotone "" | cat -e
+$
+$>

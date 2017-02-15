@@ -1,0 +1,15 @@
+Assignment name  : max
+Expected files   : max.c
+Allowed functions: 
+--------------------------------------------------------------------------------
+
+Écrire la fonction suivante:
+
+int		max(int* tab, unsigned int len);
+
+Le premier paramètre est un tableau d'int, le deuxième est le nombre d'éléments
+contenus dans ce tableau.
+
+La fonction renvoie le plus grand nombre trouvé dans le tableau.
+
+Si le tableau est vide, la fonction renvoie 0.

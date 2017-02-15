@@ -1,0 +1,28 @@
+Assignment name  : pgcd
+Expected files   : pgcd.c
+Allowed functions: printf, atoi, malloc, free
+--------------------------------------------------------------------------------
+
+Écrire un programme qui prend deux chaînes de caractères représentant des
+nombres entiers positifs non nuls en paramètre.
+
+Les entiers représentés par les paramètres tiennent dans un int.
+
+Afficher le plus grand diviseur commun à ces deux nombres suivi de '\n'. Le
+PGCD est toujours un entier positif non nul.
+
+Si le nombre de paramètres est différent de 2, le programme affiche seulement
+'\n'.
+
+Exemple:
+
+$> ./pgcd 42 10 | cat -e
+2$
+$> ./pgcd 42 12 | cat -e
+6$
+$> ./pgcd 14 77 | cat -e
+7$
+$> ./pgcd 17 3 | cat -e 
+1$
+$> ./pgcd | cat -e
+$

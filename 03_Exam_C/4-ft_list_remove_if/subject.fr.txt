@@ -1,0 +1,23 @@
+Assignment name  : ft_list_remove_if
+Expected files   : ft_list_remove_if.c
+Allowed functions: free
+--------------------------------------------------------------------------------
+
+Écrire une fonction ft_list_remove_if qui efface de la liste tous les élements
+dont la donnée est "égale" à la donnée de référence.
+
+Elle devra être prototypée de la façon suivante :
+
+void ft_list_remove_if(t_list **begin_list, void *data_ref, int (*cmp)());
+
+cmp prends deux void* et renvoie 0 lorsque les 2 paramètres sont égaux.
+
+À la correction, vous disposez du fichier ft_list.h tel que :
+
+$>cat ft_list.h
+typedef struct      s_list
+{
+    struct s_list   *next;
+    void            *data;
+}                   t_list;
+$>

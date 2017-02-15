@@ -1,0 +1,27 @@
+Exercitiu  : last_word
+Fisiere de iesire   : last_word.c
+Functii autorizate : write
+--------------------------------------------------------------------------------
+
+Scrieti un program ce ia ca parametru un sir de caractere si care afiseaza ultimul 
+cuvant al acestui sir urmat de '\n'.
+
+Numim "cuvant" o portiune a sirului de caractere delimitat fie de spatii si/sau 
+tabulatoare, fie de incepulul ori sfarsitul sirului.
+
+Daca numarul de parametri transmis este diferit de 1, sau nu exista nicun cuvant 
+de afisat, programul va afisa '\n'.
+
+Exemple:
+
+$> ./last_word "FOR PONY" | cat -e
+PONY$
+$> ./last_word "this        ...       is sparta, then again, maybe    not" | cat -e
+not$
+$> ./last_word "   " | cat -e
+$
+$> ./last_word "a" "b" | cat -e
+$
+$> ./last_word "  lorem,ipsum  " | cat -e
+lorem,ipsum$
+$>

@@ -1,0 +1,913 @@
+fileFormatVersion: 2
+guid: 7586cb1e70c764d0ca6a964425543d98
+timeCreated: 1433693730
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sonic_0
+    21300002: Sonic_1
+    21300004: Sonic_2
+    21300006: Sonic_3
+    21300008: Sonic_4
+    21300010: Sonic_5
+    21300012: Sonic_6
+    21300014: Sonic_7
+    21300016: Sonic_8
+    21300018: Sonic_9
+    21300020: Sonic_10
+    21300022: Sonic_11
+    21300024: Sonic_12
+    21300026: Sonic_13
+    21300028: Sonic_14
+    21300030: Sonic_15
+    21300032: Sonic_16
+    21300034: Sonic_17
+    21300036: Sonic_18
+    21300038: Sonic_19
+    21300040: Sonic_20
+    21300042: Sonic_21
+    21300044: Sonic_22
+    21300046: Sonic_23
+    21300048: Sonic_24
+    21300050: Sonic_25
+    21300052: Sonic_26
+    21300054: Sonic_27
+    21300056: Sonic_28
+    21300058: Sonic_29
+    21300060: Sonic_30
+    21300062: Sonic_31
+    21300064: Sonic_32
+    21300066: Sonic_33
+    21300068: Sonic_34
+    21300070: Sonic_35
+    21300072: Sonic_36
+    21300074: Sonic_37
+    21300076: Sonic_38
+    21300078: Sonic_39
+    21300080: Sonic_40
+    21300082: Sonic_41
+    21300084: Sonic_42
+    21300086: Sonic_43
+    21300088: Sonic_44
+    21300090: Sonic_45
+    21300092: Sonic_46
+    21300094: Sonic_47
+    21300096: Sonic_48
+    21300098: Sonic_49
+    21300100: Sonic_50
+    21300102: Sonic_51
+    21300104: Sonic_52
+    21300106: Sonic_53
+    21300108: Sonic_54
+    21300110: Sonic_55
+    21300112: Sonic_56
+    21300114: Sonic_57
+    21300116: Sonic_58
+    21300118: Sonic_59
+    21300120: Sonic_60
+    21300122: Sonic_61
+    21300124: Sonic_62
+    21300126: Sonic_63
+    21300128: Sonic_64
+    21300130: Sonic_65
+    21300132: Sonic_66
+    21300134: Sonic_67
+    21300136: Sonic_68
+    21300138: Sonic_69
+    21300140: Sonic_70
+    21300142: Sonic_71
+    21300144: Sonic_72
+    21300146: Sonic_73
+    21300148: Sonic_74
+    21300150: Sonic_75
+    21300152: Sonic_76
+    21300154: Sonic_77
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Sonic_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 353
+        width: 29
+        height: 39
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 353
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 353
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 353
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 353
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_5
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 353
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 353
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_7
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 353
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_8
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 353
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_9
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 353
+        width: 28
+        height: 26
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_10
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 311
+        width: 39
+        height: 39
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_11
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 311
+        width: 25
+        height: 37
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_12
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 311
+        width: 37
+        height: 38
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_13
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 311
+        width: 29
+        height: 39
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_14
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 311
+        width: 32
+        height: 38
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_15
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 311
+        width: 54
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_16
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 311
+        width: 53
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_17
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 301
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_18
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 303
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_19
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 262
+        width: 31
+        height: 36
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_20
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 262
+        width: 30
+        height: 36
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_21
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 262
+        width: 31
+        height: 36
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_22
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 262
+        width: 31
+        height: 36
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_23
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 259
+        width: 30
+        height: 41
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_24
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 261
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_25
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 261
+        width: 44
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_26
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 262
+        width: 43
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_27
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 261
+        width: 44
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_28
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 261
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_29
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 218
+        width: 25
+        height: 31
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_30
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 222
+        width: 31
+        height: 25
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_31
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 218
+        width: 25
+        height: 31
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_32
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 222
+        width: 31
+        height: 25
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_33
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 220
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_34
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 215
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_35
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 215
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_36
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 205
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_37
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 205
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_38
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 204
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_39
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 208
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_40
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 210
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_41
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 213
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_42
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 216
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_43
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 222
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_44
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 174
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_45
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 174
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_46
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 174
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_47
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 174
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_48
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 174
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_49
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 174
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_50
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 156
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_51
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 156
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_52
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 156
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_53
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 156
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_54
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 156
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_55
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 156
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_56
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 156
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_57
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 156
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_58
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 156
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_59
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 156
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_60
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 120
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_61
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 120
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_62
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 128
+        width: 38
+        height: 27
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_63
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 129
+        width: 38
+        height: 26
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_64
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 124
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_65
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1
+        width: 177
+        height: 141
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_66
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 82
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_67
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 82
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_68
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 86
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_69
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 87
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_70
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 87
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_71
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 89
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_72
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 20
+        width: 51
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_73
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 34
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_74
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 34
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_75
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 34
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_76
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 35
+        width: 74
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sonic_77
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 47
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

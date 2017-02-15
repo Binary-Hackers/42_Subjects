@@ -1,0 +1,11 @@
+Exercitiu : ft_print_numbers
+Fisiere de iesire  : ft_print_numbers.c
+Functii autorizate : write
+--------------------------------------------------------------------------------
+
+Scrieti o functie ce afiseaza toate cifrele, in ordine crescatoare.
+
+Ea trebuie sa aiba prototipul urmator:
+
+void	ft_print_numbers(void);
+

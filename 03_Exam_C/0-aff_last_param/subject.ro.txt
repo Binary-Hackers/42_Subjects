@@ -1,0 +1,18 @@
+Exercitiu  : aff_last_param
+Fisiere de iesire   : aff_last_param.c
+Functii autorizate : write
+--------------------------------------------------------------------------------
+
+Scrieti un program ce ia ca parametru siruri de caractere si care afiseaza 
+ultimul parametru urmat de un '\n'.
+
+Daca numarul de parametri este mai mic de 1, probramul afiseaza '\n'.
+
+Example:
+
+$> ./aff_last_param "zaz" "mange" "des" "chats" | cat -e
+chats$
+$> ./aff_last_param "j'aime le savon" | cat -e
+j'aime le savon$
+$> ./aff_last_param
+$

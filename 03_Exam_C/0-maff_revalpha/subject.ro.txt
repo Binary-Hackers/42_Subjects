@@ -1,0 +1,11 @@
+Assignment name  : maff_revalpha
+Expected files   : maff_revalpha.c
+Allowed functions: write
+--------------------------------------------------------------------------------
+
+Scrieti un program care afiseaza alfabetul in ordine inversa, cu literele de pe pozitii pare in uppercase, iar literele de pe pozitii impare in lowercase, urmat de o linie noua.
+
+Exemplu:
+
+$> ./maff_revalpha | cat -e
+zYxWvUtSrQpOnMlKjIhGfEdCsA$

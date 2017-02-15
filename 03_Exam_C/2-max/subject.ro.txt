@@ -1,0 +1,15 @@
+Exercitiu  : max
+Fisiere de iesire   : max.c
+Functii autorizate : 
+--------------------------------------------------------------------------------
+
+Scrieti functia urmatoare:
+
+		int		max(int* tab, unsigned int len);
+
+Primul parametru este un tablou de intregi, al doile este numarul de elemente 
+continute in tablou.
+
+Functia trebuie sa returmeze cel mai mare numar gasit in tablou.
+
+Daca tabloul este vid, functia va returna 0.

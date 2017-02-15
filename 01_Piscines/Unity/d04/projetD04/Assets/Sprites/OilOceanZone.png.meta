@@ -1,0 +1,264 @@
+fileFormatVersion: 2
+guid: a4bcffca807676f4d9c24cedd88c7daa
+timeCreated: 1434103979
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: OilOceanZone_0
+    21300002: OilOceanZone_1
+    21300004: OilOceanZone_2
+    21300006: OilOceanZone_3
+    21300008: OilOceanZone_4
+    21300010: OilOceanZone_5
+    21300012: OilOceanZone_6
+    21300014: OilOceanZone_7
+    21300016: OilOceanZone_8
+    21300018: OilOceanZone_9
+    21300020: OilOceanZone_10
+    21300022: OilOceanZone_11
+    21300024: OilOceanZone_12
+    21300026: OilOceanZone_13
+    21300028: OilOceanZone_14
+    21300030: OilOceanZone_15
+    21300032: OilOceanZone_16
+    21300034: OilOceanZone_17
+    21300036: OilOceanZone_18
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: OilOceanZone_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1718
+        width: 222
+        height: 258
+      alignment: 9
+      pivot: {x: .998820424, y: .433715343}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OilOceanZone_2
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1549
+        width: 635
+        height: 136
+      alignment: 9
+      pivot: {x: 0, y: .823000014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OilOceanZone_3
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1203
+        width: 192
+        height: 304
+      alignment: 9
+      pivot: {x: 0, y: .368000001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OilOceanZone_4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1309
+        width: 126
+        height: 178
+      alignment: 9
+      pivot: {x: 0, y: .812814772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OilOceanZone_5
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1299
+        width: 128
+        height: 200
+      alignment: 9
+      pivot: {x: 0, y: .881316543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OilOceanZone_7
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 991
+        width: 127
+        height: 216
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OilOceanZone_8
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 945
+        width: 128
+        height: 321
+      alignment: 9
+      pivot: {x: 0, y: .668294668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OilOceanZone_9
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 794
+        width: 126
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OilOceanZone_10
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 651
+        width: 128
+        height: 127
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OilOceanZone_11
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 506
+        width: 126
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: .593693256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OilOceanZone_12
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 465
+        width: 178
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OilOceanZone_13
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 66
+        width: 508
+        height: 379
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OilOceanZone_1
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 2023
+        width: 128
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OilOceanZone_14
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1895
+        width: 127
+        height: 165
+      alignment: 9
+      pivot: {x: 0, y: .673210382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OilOceanZone_15
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1721
+        width: 198
+        height: 136
+      alignment: 9
+      pivot: {x: 1, y: .82869947}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OilOceanZone_6
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 988
+        width: 128
+        height: 166
+      alignment: 9
+      pivot: {x: 0, y: .609956682}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OilOceanZone_16
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 708
+        width: 224
+        height: 257
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OilOceanZone_17
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 708
+        width: 253
+        height: 256
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OilOceanZone_18
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 520
+        width: 182
+        height: 173
+      alignment: 9
+      pivot: {x: 1, y: .942181706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,26 @@
+Assignment name  : epur_str
+Expected files   : epur_str.c
+Allowed functions: write
+--------------------------------------------------------------------------------
+
+Écrire un programme qui prend une chaîne de caractères en paramètre, et qui
+affiche cette chaîne avec exactement un espace entre chaque mot, sans espaces
+ou tabulations ni au début ni à la fin de la chaîne, suivie d'un '\n'.
+
+On appelle "mot" une portion de chaîne de caractères délimitée soit par des
+espaces et/ou des tabulations, soit par le début / fin de la chaîne.
+
+Si le nombre de paramètres transmis est différent de 1, ou s'il n'y a aucun mot
+à afficher, le programme affiche '\n'.
+
+Exemple:
+
+$> ./epur_str "vous voyez c'est facile d'afficher la meme chose" | cat -e
+vous voyez c'est facile d'afficher la meme chose$
+$> ./epur_str " seulement          la c'est      plus dur " | cat -e
+seulement la c'est plus dur$
+$> ./epur_str "comme c'est cocasse" "vous avez entendu, Mathilde ?" | cat -e
+$
+$> ./epur_str "" | cat -e
+$
+$>

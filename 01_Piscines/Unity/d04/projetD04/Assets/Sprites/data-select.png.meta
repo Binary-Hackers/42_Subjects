@@ -1,0 +1,1276 @@
+fileFormatVersion: 2
+guid: c89f0d04b603dd849abe3883a75d2559
+timeCreated: 1433595456
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: data-select_0
+    21300002: data-select_1
+    21300004: data-select_2
+    21300006: data-select_3
+    21300008: data-select_4
+    21300010: data-select_5
+    21300012: data-select_6
+    21300014: data-select_7
+    21300016: data-select_8
+    21300018: data-select_9
+    21300020: data-select_10
+    21300022: data-select_11
+    21300024: data-select_12
+    21300026: data-select_13
+    21300028: data-select_14
+    21300030: data-select_15
+    21300032: data-select_16
+    21300034: data-select_17
+    21300036: data-select_18
+    21300038: data-select_19
+    21300040: data-select_20
+    21300042: data-select_21
+    21300044: data-select_22
+    21300046: data-select_23
+    21300048: data-select_24
+    21300050: data-select_25
+    21300052: data-select_26
+    21300054: data-select_27
+    21300056: data-select_28
+    21300058: data-select_29
+    21300060: data-select_30
+    21300062: data-select_31
+    21300064: data-select_32
+    21300066: data-select_33
+    21300068: data-select_34
+    21300070: data-select_35
+    21300072: data-select_36
+    21300074: data-select_37
+    21300076: data-select_38
+    21300078: data-select_39
+    21300080: data-select_40
+    21300082: data-select_41
+    21300084: data-select_42
+    21300086: data-select_43
+    21300088: data-select_44
+    21300090: data-select_45
+    21300092: data-select_46
+    21300094: data-select_47
+    21300096: data-select_48
+    21300098: data-select_49
+    21300100: data-select_50
+    21300102: data-select_51
+    21300104: data-select_52
+    21300106: data-select_53
+    21300108: data-select_54
+    21300110: data-select_55
+    21300112: data-select_56
+    21300114: data-select_57
+    21300116: data-select_58
+    21300118: data-select_59
+    21300120: data-select_60
+    21300122: data-select_61
+    21300124: data-select_62
+    21300126: data-select_63
+    21300128: data-select_64
+    21300130: data-select_65
+    21300132: data-select_66
+    21300134: data-select_67
+    21300136: data-select_68
+    21300138: data-select_69
+    21300140: data-select_70
+    21300142: data-select_71
+    21300144: data-select_72
+    21300146: data-select_73
+    21300148: data-select_74
+    21300150: data-select_75
+    21300152: data-select_76
+    21300154: data-select_77
+    21300156: data-select_78
+    21300158: data-select_79
+    21300160: data-select_80
+    21300162: data-select_81
+    21300164: data-select_82
+    21300166: data-select_83
+    21300168: data-select_84
+    21300170: data-select_85
+    21300172: data-select_86
+    21300174: data-select_87
+    21300176: data-select_88
+    21300178: data-select_89
+    21300180: data-select_90
+    21300182: data-select_91
+    21300184: data-select_92
+    21300186: data-select_93
+    21300188: data-select_94
+    21300190: data-select_95
+    21300192: data-select_96
+    21300194: data-select_97
+    21300196: data-select_98
+    21300198: data-select_99
+    21300200: data-select_100
+    21300202: data-select_101
+    21300204: data-select_102
+    21300206: data-select_103
+    21300208: data-select_104
+    21300210: data-select_105
+    21300212: data-select_106
+    21300214: data-select_107
+    21300216: data-select_108
+    21300218: data-select_109
+    21300220: data-select_110
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: data-select_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 453
+        width: 320
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_1
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 573
+        width: 51
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_2
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 573
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_3
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 595
+        width: 35
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_4
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 595
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_5
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 593
+        width: 65
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_6
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 595
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_7
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 582
+        width: 30
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_8
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 582
+        width: 40
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_9
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 582
+        width: 45
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_10
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 567
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_11
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 569
+        width: 51
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_12
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 529
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_13
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 529
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_14
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 464
+        width: 47
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_15
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 513
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_16
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 513
+        width: 5
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_17
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 513
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_18
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 509
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_19
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 509
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_20
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 485
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_21
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 485
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_22
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 485
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_23
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 462
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_24
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 470
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_25
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 470
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_26
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 470
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_27
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 470
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_28
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 470
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_29
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 458
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_30
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 458
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_31
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 458
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_32
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 458
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_33
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 458
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_34
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 434
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_35
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 389
+        width: 84
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_36
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 389
+        width: 84
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_37
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 389
+        width: 84
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_38
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 268
+        width: 96
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_39
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 364
+        width: 80
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_40
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 426
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 426
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_42
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 418
+        width: 40
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_43
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 410
+        width: 40
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_44
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 385
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_45
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 374
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_46
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 384
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_47
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 374
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_48
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 375
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_49
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 375
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_50
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 325
+        width: 84
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_51
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 325
+        width: 84
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_52
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 325
+        width: 84
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_53
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 353
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_54
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 360
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_55
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 353
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_56
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 352
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_57
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 359
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_58
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 352
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_59
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 358
+        width: 33
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_60
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 336
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_61
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 336
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_62
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 335
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_63
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 335
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_64
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 267
+        width: 80
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_65
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 261
+        width: 84
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_66
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 261
+        width: 84
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_67
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 261
+        width: 84
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_68
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 261
+        width: 84
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_69
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 261
+        width: 84
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_70
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 197
+        width: 84
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_71
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 197
+        width: 84
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_72
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 197
+        width: 84
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_73
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 197
+        width: 84
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_74
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 197
+        width: 84
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_75
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 75
+        width: 78
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_76
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 170
+        width: 76
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_77
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 133
+        width: 84
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_78
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 133
+        width: 84
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_79
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 133
+        width: 84
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_80
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 133
+        width: 84
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_81
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 133
+        width: 84
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_82
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_83
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 69
+        width: 84
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_84
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 69
+        width: 84
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_85
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 69
+        width: 84
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_86
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 69
+        width: 84
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_87
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 69
+        width: 84
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_88
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 119
+        width: 50
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_89
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_90
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 36
+        width: 37
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_91
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 36
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_92
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 36
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_93
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 34
+        width: 50
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_94
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 36
+        width: 61
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_95
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 34
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_96
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 41
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_97
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 0
+        width: 83
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_98
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 23
+        width: 32
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_99
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 23
+        width: 65
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_100
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 23
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_101
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 23
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_102
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 30
+        width: 48
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_103
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 30
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_104
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 30
+        width: 39
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_105
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 23
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_106
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 21
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_107
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 15
+        width: 58
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_108
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 17
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_109
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 17
+        width: 35
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: data-select_110
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 17
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

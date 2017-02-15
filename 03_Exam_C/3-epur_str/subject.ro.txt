@@ -1,0 +1,26 @@
+Exercitiu : epur_str
+Fisiere de iesire : epur_str.c
+Functii autorizate : write
+--------------------------------------------------------------------------------
+
+Scrieti un program ce ia ca parametru un sir de caractere si care afiseaza 
+acest sir cu un singur spatiu intre fiecare dintre cuvinte si fara spatiu ori 
+tabulator la inceput si la sfarsitul sirului, urmat de un '\n'}.
+
+Numim "cuvant" o portiune a sirului de caractere delimitata de spatii sau 
+tabulatoare, sau la inceputul ori sfarsitul sirului.
+
+Daca numarul de parametri trasnmis este diferit de 1, sau nu exista niciun 
+cuvant de afisat, programul va afisa '\n'.
+
+Exemplu:
+
+$> ./epur_str "vous voyez c'est facile d'afficher la meme chose" | cat -e
+vous voyez c'est facile d'afficher la meme chose$
+$> ./epur_str " seulement          la c'est      plus dur " | cat -e
+seulement la c'est plus dur$
+$> ./epur_str "comme c'est cocasse" "vous avez entendu, Mathilde ?" | cat -e
+$
+$> ./epur_str "" | cat -e
+$
+$>

@@ -1,0 +1,19 @@
+Assignment name  : print_hex
+Expected files   : print_hex.c
+Allowed functions: write
+--------------------------------------------------------------------------------
+
+Écrire un programme qui prend un entier positif ou nul exprimé en base 10, et l'affiche en base 16 (avec des minuscules) suivi d'un newline.
+
+Si le nombre de paramêtres n'est pas 1, le programme affiche un newline.
+
+Exemples:
+
+$> ./print_hex "10" | cat -e
+a$
+$> ./print_hex "255" | cat -e
+ff$
+$> ./print_hex "5156454" | cat -e
+4eae66$
+$> ./print_hex | cat -e
+$

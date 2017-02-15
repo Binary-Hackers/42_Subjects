@@ -1,0 +1,6 @@
+Assignment name  : only_a
+Expected files   : only_a.c
+Allowed functions: write
+--------------------------------------------------------------------------------
+
+Écrire un programme qui affiche un caractère 'a' sur la sortie standard.

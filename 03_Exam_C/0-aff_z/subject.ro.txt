@@ -1,0 +1,19 @@
+Exercitiu  : aff_z
+Fisiere de iesire  : aff_z.c
+Functii autorizate : write
+--------------------------------------------------------------------------------
+Scrieti un program ce ia ca parametru un sir de caractere, si care afiseaza la 
+iesirea standard primul caracter 'z' intalnit in acest sir, urmat de '\n'. Daca 
+nu este intalnit niciun caracter 'z', programul va afisa 'z' urmat de '\n'. Daca 
+numarul de parametri este diferit de 1, programul va afisa 'z' urmat de '\n'.
+
+Example:
+
+$> ./aff_z "abc" | cat -e
+z$
+$> ./aff_z "dubO a POIL" | cat -e
+z$
+$> ./aff_z "zaz sent le poney" | cat -e
+z$
+$> ./aff_z | cat -e
+z$

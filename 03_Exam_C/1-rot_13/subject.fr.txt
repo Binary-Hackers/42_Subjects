@@ -1,0 +1,32 @@
+Assignment name  : rot_13
+Expected files   : rot_13.c
+Allowed functions: write
+--------------------------------------------------------------------------------
+
+Écrire un programme nommé rot_13, qui prend en paramètre une chaîne de
+caractères, et qui affiche cette chaîne en remplaçant chaque caractère
+alphabétique par le caractère situé 13 caractères plus loin dans l'ordre
+alphabétique.
+
+'z' devient 'm' et 'Z' devient 'M'. Les majuscules restent des majuscules, les
+minuscules restent des minuscules.
+
+L'affichage se termine toujours par un retour à la ligne.
+
+Si le nombre de paramètres transmis est différent de 1, le programme affiche
+'\n'.
+
+Exemple:
+
+$>./rot_13 "abc"
+nop
+$>./rot_13 "My horse is Amazing." | cat -e
+Zl ubefr vf Nznmvat.$
+$>./rot_13 "AkjhZ zLKIJz , 23y " | cat -e
+NxwuM mYXVWm , 23l $
+$>./rot_13 | cat -e
+$
+$>
+$>./rot_13 "" | cat -e
+$
+$>

@@ -1,0 +1,19 @@
+Assignment name  : swap_bits
+Expected files   : swap_bits.c
+Allowed functions:
+--------------------------------------------------------------------------------
+
+Scrieti o functie care primeste un byte, inverseaza jumatatile (ca si in exemplu) si returneaza rezultatul.
+
+Functia trebuie declarata ca si mai jos:
+
+unsigned char	swap_bits(unsigned char octet);
+
+Example:
+
+  1 byte
+_____________
+ 0100 | 0001
+     \ /
+     / \
+ 0001 | 0100

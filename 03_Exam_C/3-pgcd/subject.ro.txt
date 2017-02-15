@@ -1,0 +1,27 @@
+Exercitiu  : pgcd
+Fisiere de iesire  : pgcd.c
+Functii autorizate : printf, atoi, malloc, free
+--------------------------------------------------------------------------------
+
+Scrieti un program ce ia ca parametru doua siruri de caractere reprezentand 
+niste intregi, positivi ne nuli.
+
+Intregii luati ca parametri vor fi de tip int.
+
+Afisati cel mai mare divizor comun al acestor numere, urmat de '\n'. CMMDC este 
+intotdeauna un intreg pozitiv, ne-nul.
+
+Daca numarul de parametri este diferit de 2, programul va afisa doar '\n'.
+
+Exemplu:
+
+$> ./pgcd 42 10 | cat -e
+2$
+$> ./pgcd 42 12 | cat -e
+6$
+$> ./pgcd 14 77 | cat -e
+7$
+$> ./pgcd 17 3 | cat -e 
+1$
+$> ./pgcd | cat -e
+$

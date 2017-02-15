@@ -1,0 +1,12 @@
+Assignment name  : print_bits
+Expected files   : print_bits.c
+Allowed functions: write
+--------------------------------------------------------------------------------
+
+Écrire une fonction qui prend un octet et l'affiche en binaire, sans newline à la fin.
+
+Votre fonction doit étre déclarée comme suit:
+
+void	print_bits(unsigned char octet);
+
+Exemple, si on lui passe 2, elle affiche "00000010"

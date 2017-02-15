@@ -1,0 +1,607 @@
+fileFormatVersion: 2
+guid: 4efe7150bd2c5e34ebcef494c34fab85
+timeCreated: 1433711773
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: rings_0
+    21300002: rings_1
+    21300004: rings_2
+    21300006: rings_3
+    21300008: rings_4
+    21300010: rings_5
+    21300012: rings_6
+    21300014: rings_7
+    21300016: rings_8
+    21300018: rings_9
+    21300020: rings_10
+    21300022: rings_11
+    21300024: rings_12
+    21300026: rings_13
+    21300028: rings_14
+    21300030: rings_15
+    21300032: rings_16
+    21300034: rings_17
+    21300036: rings_18
+    21300038: rings_19
+    21300040: rings_20
+    21300042: rings_21
+    21300044: rings_22
+    21300046: rings_23
+    21300048: rings_24
+    21300050: rings_25
+    21300052: rings_26
+    21300054: rings_27
+    21300056: rings_28
+    21300058: rings_29
+    21300060: rings_30
+    21300062: rings_31
+    21300064: rings_32
+    21300066: rings_33
+    21300068: rings_34
+    21300070: rings_35
+    21300072: rings_36
+    21300074: rings_37
+    21300076: rings_38
+    21300078: rings_39
+    21300080: rings_40
+    21300082: rings_41
+    21300084: rings_42
+    21300086: rings_43
+    21300088: rings_44
+    21300090: rings_45
+    21300092: rings_46
+    21300094: rings_47
+    21300096: rings_48
+    21300098: rings_49
+    21300100: rings_50
+    21300102: rings_51
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: rings_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 90
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rings_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 235
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rings_2
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 235
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rings_3
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 235
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rings_4
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 235
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rings_5
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 234
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rings_6
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 234
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rings_7
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 234
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rings_8
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 234
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rings_9
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 234
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rings_10
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 234
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rings_11
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 234
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rings_12
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 234
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rings_13
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 235
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rings_14
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 235
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rings_15
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 235
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rings_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 206
+        width: 45
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rings_20
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 192
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rings_22
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rings_23
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rings_24
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rings_25
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rings_26
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rings_27
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rings_28
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rings_29
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rings_30
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rings_31
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rings_32
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rings_33
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 162
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rings_34
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 162
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rings_35
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 6
+        width: 88
+        height: 89
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rings_36
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 5
+        width: 85
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rings_37
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 4
+        width: 78
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rings_38
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 3
+        width: 65
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rings_39
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 2
+        width: 46
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rings_40
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 2
+        width: 33
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rings_41
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 3
+        width: 48
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rings_42
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 3
+        width: 67
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rings_43
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 5
+        width: 79
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rings_44
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 5
+        width: 86
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rings_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rings_46
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rings_47
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rings_48
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rings_49
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rings_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 162
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rings_51
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 162
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rings_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rings_18
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 192
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

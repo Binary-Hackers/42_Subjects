@@ -1,0 +1,29 @@
+Exercitiu  : union
+Fisiere de iesire   : union.c
+Functii autorizate : write
+--------------------------------------------------------------------------------
+
+Scrieti un program numit union ce ia ca parametri doua siruri de caractere si 
+care afiseaza toate caracterele, fara a le dubla, apartinind oricaruia din cele 
+doua siruri.
+
+Afisarea se va face in ordinea de aparitie din linia de comanda.
+
+Afisarea trebuie sa fie urmata de un retour de linie.
+
+Daca numarul de parametre transmis este diferit de 2, programul va afisa '\n'.
+
+Exemplu:
+
+$>./union zpadinton "paqefwtdjetyiytjneytjoeyjnejeyj" | cat -e
+zpadintoqefwjy$
+$>./union ddf6vewg64f gtwthgdwthdwfteewhrtag6h4ffdhsd | cat -e
+df6vewg4thras$
+$>./union "rien" "cette phrase ne cache rien" | cat -e
+rienct phas$
+$>./union | cat -e
+$
+$>
+$>./union "rien" | cat -e
+$
+$>

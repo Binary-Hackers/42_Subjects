@@ -1,0 +1,1193 @@
+fileFormatVersion: 2
+guid: 8f8fee7e12a544be8a2504b2a1326da7
+timeCreated: 1433523182
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Angle Island Zone_0
+    21300002: Angle Island Zone_1
+    21300004: Angle Island Zone_2
+    21300006: Angle Island Zone_3
+    21300008: Angle Island Zone_4
+    21300010: Angle Island Zone_5
+    21300012: Angle Island Zone_6
+    21300014: Angle Island Zone_7
+    21300016: Angle Island Zone_8
+    21300018: Angle Island Zone_9
+    21300020: Angle Island Zone_10
+    21300022: Angle Island Zone_11
+    21300024: Angle Island Zone_12
+    21300026: Angle Island Zone_13
+    21300028: Angle Island Zone_14
+    21300030: Angle Island Zone_15
+    21300032: Angle Island Zone_16
+    21300034: Angle Island Zone_17
+    21300036: Angle Island Zone_18
+    21300038: Angle Island Zone_19
+    21300040: Angle Island Zone_20
+    21300042: Angle Island Zone_21
+    21300044: Angle Island Zone_22
+    21300046: Angle Island Zone_23
+    21300048: Angle Island Zone_24
+    21300050: Angle Island Zone_25
+    21300052: Angle Island Zone_26
+    21300054: Angle Island Zone_27
+    21300056: Angle Island Zone_28
+    21300058: Angle Island Zone_29
+    21300060: Angle Island Zone_30
+    21300062: Angle Island Zone_31
+    21300064: Angle Island Zone_32
+    21300066: Angle Island Zone_33
+    21300068: Angle Island Zone_34
+    21300070: Angle Island Zone_35
+    21300072: Angle Island Zone_36
+    21300074: Angle Island Zone_37
+    21300076: Angle Island Zone_38
+    21300078: Angle Island Zone_39
+    21300080: Angle Island Zone_40
+    21300082: Angle Island Zone_41
+    21300084: Angle Island Zone_42
+    21300086: Angle Island Zone_43
+    21300088: Angle Island Zone_44
+    21300090: Angle Island Zone_45
+    21300092: Angle Island Zone_46
+    21300094: Angle Island Zone_47
+    21300096: Angle Island Zone_48
+    21300098: Angle Island Zone_49
+    21300100: Angle Island Zone_50
+    21300102: Angle Island Zone_51
+    21300104: Angle Island Zone_52
+    21300106: Angle Island Zone_53
+    21300108: Angle Island Zone_54
+    21300110: Angle Island Zone_55
+    21300112: Angle Island Zone_56
+    21300114: Angle Island Zone_57
+    21300116: Angle Island Zone_58
+    21300118: Angle Island Zone_59
+    21300120: Angle Island Zone_60
+    21300122: Angle Island Zone_61
+    21300124: Angle Island Zone_62
+    21300126: Angle Island Zone_63
+    21300128: Angle Island Zone_64
+    21300130: Angle Island Zone_65
+    21300132: Angle Island Zone_66
+    21300134: Angle Island Zone_67
+    21300136: Angle Island Zone_68
+    21300138: Angle Island Zone_69
+    21300140: Angle Island Zone_70
+    21300142: Angle Island Zone_71
+    21300144: Angle Island Zone_72
+    21300146: Angle Island Zone_73
+    21300148: Angle Island Zone_74
+    21300150: Angle Island Zone_75
+    21300152: Angle Island Zone_76
+    21300154: Angle Island Zone_77
+    21300156: Angle Island Zone_78
+    21300158: Angle Island Zone_79
+    21300160: Angle Island Zone_80
+    21300162: Angle Island Zone_81
+    21300164: Angle Island Zone_82
+    21300166: Angle Island Zone_83
+    21300168: Angle Island Zone_84
+    21300170: Angle Island Zone_85
+    21300172: Angle Island Zone_86
+    21300174: Angle Island Zone_87
+    21300176: Angle Island Zone_88
+    21300178: Angle Island Zone_89
+    21300180: Angle Island Zone_90
+    21300182: Angle Island Zone_91
+    21300184: Angle Island Zone_92
+    21300186: Angle Island Zone_93
+    21300188: Angle Island Zone_94
+    21300190: Angle Island Zone_95
+    21300192: Angle Island Zone_96
+    21300194: Angle Island Zone_97
+    21300196: Angle Island Zone_98
+    21300198: Angle Island Zone_99
+    21300200: Angle Island Zone_100
+    21300202: Angle Island Zone_101
+    21300204: Angle Island Zone_102
+    21300206: Angle Island Zone_103
+    21300208: Angle Island Zone_104
+    21300210: Angle Island Zone_105
+    21300212: Angle Island Zone_106
+    21300214: Angle Island Zone_107
+    21300216: Angle Island Zone_108
+    21300218: Angle Island Zone_109
+    21300220: Angle Island Zone_110
+    21300222: Angle Island Zone_111
+    21300224: Angle Island Zone_112
+    21300226: Angle Island Zone_113
+    21300228: Angle Island Zone_114
+    21300230: Angle Island Zone_115
+    21300232: Angle Island Zone_116
+    21300234: Angle Island Zone_117
+    21300236: Angle Island Zone_118
+    21300238: Angle Island Zone_119
+    21300240: Angle Island Zone_120
+    21300242: Angle Island Zone_121
+    21300244: Angle Island Zone_122
+    21300246: Angle Island Zone_123
+    21300248: Angle Island Zone_124
+    21300250: Angle Island Zone_125
+    21300252: Angle Island Zone_126
+    21300254: Angle Island Zone_127
+    21300256: Angle Island Zone_128
+    21300258: Angle Island Zone_129
+    21300260: Angle Island Zone_130
+    21300262: Angle Island Zone_131
+    21300264: Angle Island Zone_132
+    21300266: Angle Island Zone_133
+    21300268: Angle Island Zone_134
+    21300270: Angle Island Zone_135
+    21300272: Angle Island Zone_136
+    21300274: Angle Island Zone_137
+    21300276: Angle Island Zone_138
+    21300278: Angle Island Zone_139
+    21300280: Angle Island Zone_140
+    21300282: Angle Island Zone_141
+    21300284: Angle Island Zone_142
+    21300286: Angle Island Zone_143
+    21300288: Angle Island Zone_144
+    21300290: Angle Island Zone_145
+    21300292: Angle Island Zone_146
+    21300294: Angle Island Zone_147
+    21300296: Angle Island Zone_148
+    21300298: Angle Island Zone_149
+    21300300: Angle Island Zone_150
+    21300302: Angle Island Zone_151
+    21300304: Angle Island Zone_152
+    21300306: Angle Island Zone_153
+    21300308: Angle Island Zone_154
+    21300310: Angle Island Zone_155
+    21300312: Angle Island Zone_156
+    21300314: Angle Island Zone_157
+    21300316: Angle Island Zone_158
+    21300318: Angle Island Zone_159
+    21300320: Angle Island Zone_160
+    21300322: Angle Island Zone_161
+    21300324: Angle Island Zone_162
+    21300326: Angle Island Zone_163
+    21300328: Angle Island Zone_164
+    21300330: Angle Island Zone_165
+    21300332: Angle Island Zone_166
+    21300334: Angle Island Zone_167
+    21300336: Angle Island Zone_168
+    21300338: Angle Island Zone_169
+    21300340: Angle Island Zone_170
+    21300342: Angle Island Zone_171
+    21300344: Angle Island Zone_172
+    21300346: Angle Island Zone_173
+    21300348: Angle Island Zone_174
+    21300350: Angle Island Zone_175
+    21300352: Angle Island Zone_176
+    21300354: Angle Island Zone_177
+    21300356: Angle Island Zone_178
+    21300358: Angle Island Zone_179
+    21300360: Angle Island Zone_180
+    21300362: Angle Island Zone_181
+    21300364: Angle Island Zone_182
+    21300366: Angle Island Zone_183
+    21300368: Angle Island Zone_184
+    21300370: Angle Island Zone_185
+    21300372: Angle Island Zone_186
+    21300374: Angle Island Zone_187
+    21300376: Angle Island Zone_188
+    21300378: Angle Island Zone_189
+    21300380: Angle Island Zone_190
+    21300382: Angle Island Zone_191
+    21300384: Angle Island Zone_192
+    21300386: Angle Island Zone_193
+    21300388: Angle Island Zone_194
+    21300390: Angle Island Zone_195
+    21300392: Angle Island Zone_196
+    21300394: Angle Island Zone_197
+    21300396: Angle Island Zone_198
+    21300398: Angle Island Zone_199
+    21300400: Angle Island Zone_200
+    21300402: Angle Island Zone_201
+    21300404: Angle Island Zone_202
+    21300406: Angle Island Zone_203
+    21300408: Angle Island Zone_204
+    21300410: Angle Island Zone_205
+    21300412: Angle Island Zone_206
+    21300414: Angle Island Zone_207
+    21300416: Angle Island Zone_208
+    21300418: Angle Island Zone_209
+    21300420: Angle Island Zone_210
+    21300422: Angle Island Zone_211
+    21300424: Angle Island Zone_212
+    21300426: Angle Island Zone_213
+    21300428: Angle Island Zone_214
+    21300430: Angle Island Zone_215
+    21300432: Angle Island Zone_216
+    21300434: Angle Island Zone_217
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Angle Island Zone_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1871
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1871
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_2
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1871
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_3
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1871
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_4
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1871
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_5
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1900
+        width: 79
+        height: 55
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_6
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1900
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_7
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1900
+        width: 79
+        height: 55
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_9
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1816
+        width: 128
+        height: 80
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1742
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_12
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1742
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_13
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1742
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_14
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1742
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_15
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1744
+        width: 60
+        height: 90
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_16
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1780
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_17
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1687
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_18
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1780
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1613
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_20
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1613
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_21
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1631
+        width: 99
+        height: 101
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_24
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1677
+        width: 128
+        height: 48
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_25
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1677
+        width: 96
+        height: 55
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_26
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1633
+        width: 67
+        height: 34
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_27
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1520
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_28
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 1538
+        width: 128
+        height: 125
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_29
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1484
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_30
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1484
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_31
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1484
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_32
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1484
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_33
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1484
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_34
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1491
+        width: 64
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_35
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1355
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_36
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1355
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_37
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1355
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_38
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1355
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_39
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1355
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_40
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1355
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_41
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 1420
+        width: 96
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_42
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1226
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_43
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1226
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_44
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1226
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_45
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1226
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_46
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1226
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_47
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1353
+        width: 96
+        height: 64
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_48
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1226
+        width: 67
+        height: 87
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_49
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1226
+        width: 128
+        height: 125
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_50
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1097
+        width: 127
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_51
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1097
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_52
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1097
+        width: 127
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_57
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1001
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_58
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 968
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_64
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 839
+        width: 127
+        height: 128
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_73
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 711
+        width: 128
+        height: 127
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_74
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 711
+        width: 128
+        height: 127
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_79
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 579
+        width: 127
+        height: 128
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_80
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 579
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_81
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 615
+        width: 128
+        height: 48
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_82
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 615
+        width: 128
+        height: 87
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_83
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 619
+        width: 128
+        height: 72
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_84
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 619
+        width: 128
+        height: 88
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_85
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 466
+        width: 127
+        height: 112
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_86
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 450
+        width: 128
+        height: 128
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_87
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 466
+        width: 128
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_88
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 486
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_89
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 486
+        width: 128
+        height: 80
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_92
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 337
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_93
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 466
+        width: 57
+        height: 16
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_94
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 361
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_95
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 361
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_96
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 451
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_97
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 451
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 362
+        width: 128
+        height: 84
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_99
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 319
+        width: 128
+        height: 128
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_100
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 337
+        width: 128
+        height: 48
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_101
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 337
+        width: 128
+        height: 80
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_103
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 260
+        width: 128
+        height: 48
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_110
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 232
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_111
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 232
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_118
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 131
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_119
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 219
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_123
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 179
+        width: 64
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_140
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 62
+        width: 142
+        height: 142
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_150
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 191
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_156
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 143
+        width: 64
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_215
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 2
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_216
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 2
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_217
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 106
+        width: 64
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_104
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 260
+        width: 127
+        height: 72
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_8
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1742
+        width: 69
+        height: 109
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_10
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 875
+        width: 127
+        height: 92
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_22
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 875
+        width: 127
+        height: 91
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angle Island Zone_23
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 2
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

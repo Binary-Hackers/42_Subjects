@@ -1,0 +1,21 @@
+Assignment name  : ft_itoa_base
+Expected files   : ft_itoa_base.c
+Allowed functions: malloc
+--------------------------------------------------------------------------------
+
+Écrire une fonction qui prend un int et le convertit en chaîne terminée par un
+caractère nul, en utilisant la base passée en paramètre. Cette fonction
+retourne le résultat en tant qu'un tableau de char que vous devez allouer.
+
+La base est exprimée par un entier qui va de 2 à 16. Les caractères composant
+la base sont les chiffres de 0 à 9 suivis par les lettres majuscules A à F.
+
+Par exemple, la base 4 serait "0123" et la base 16 "0123456789ABCDEF".
+
+Si la base est 10 et la valeur est négative, la chaîne de sortie doit être
+précédée d'un caractère '-'. Pour toute autre base, la valeur est toujours
+considérée non-signée.
+
+Votre fonction doit être déclarée comme suit:
+
+char	*ft_itoa_base(int value, int base);

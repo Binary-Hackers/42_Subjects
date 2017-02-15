@@ -1,0 +1,21 @@
+Exercitiu  : ft_list_remove_if
+Fisiere de iesire   : ft_list_remove_if.c
+Functii autorizate : free
+--------------------------------------------------------------------------------
+
+Scrieti o functie ft_list_remove_if ce sterge dintr-o lista toate elementele
+ale caror data este "egala" cu data de referinta.
+
+Ea trebuie sa aiba prototipul urmator:
+
+	void ft_list_remove_if(t_list **begin_list, void *data_ref, int (*cmp)());
+
+La corectare veti dispumne de un fisier ft_list.h astfel incat:
+
+$>cat ft_list.h
+typedef struct      s_list
+{
+    struct s_list   *next;
+    void            *data;
+}                   t_list;
+$>

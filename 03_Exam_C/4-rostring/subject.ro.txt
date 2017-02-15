@@ -1,0 +1,31 @@
+Exercitii  : rostring
+Fisiere de iesire   : rostring.c
+Functii de iesire : write, malloc, free
+--------------------------------------------------------------------------------
+
+Scrieti un program ce ia ca parametru un sir de caractere si care afiseaza acest
+sir procedand la rotirea unui cuvant de la dreapta la stanga.
+
+Astfel, primul cuvant va deveni ultimul, iar celelalte vor ramane in aceeasi ordine.
+
+Numim "cuvant" o portiune a sirului de caractere delimitat fie de spatii si/sau 
+tabulatoare, fie de inceputul/sfarsitul sirului.
+
+Cuvintele vor fi afisate, separate de un singur spatiu.
+
+Daca numarul de parametri este inferior lui 1, programul va trebui sa afiseze '\n'.
+
+Exemplu:
+
+$>./rostring "abc   " | cat -e
+abc$
+$>
+$>./rostring "Que la      lumiere soit et la lumiere fut"
+la lumiere soit et la lumiere fut Que
+$>
+$>./rostring "     AkjhZ zLKIJz , 23y"
+zLKIJz , 23y AkjhZ
+$>
+$>./rostring | cat -e
+$
+$>

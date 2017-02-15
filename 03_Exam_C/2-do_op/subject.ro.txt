@@ -1,0 +1,29 @@
+Exercitiu : do_op
+Fisiere de iesire   : *.c, *.h
+Functii autorizate : atoi, printf, write
+--------------------------------------------------------------------------------
+
+Scrieti un program ce ia caparametru trei siruri de caractere:
+
+	Primul si al treilea sunt reprezentarile in baza 10 a numerelor intregi cu 
+semn, fiind de tip int.
+
+	Al doilea este format din operator aritmetici: + - *  /  %.
+
+Programul trebuie sa afiseze rezultatul operatiei aritmetice solicitate, urmat 
+de un '\n'. Daca numarul de parameti este diferit de 3, programul va afisa '\n'.
+
+Puteti porni de la principiul ca sirurile de caractere nu implica erori, si 
+nici caractere neconforme. Numerele negative de intrare si de iesire vor fi 
+precedate de un singur semn -. Rezultatul operatiei va fi tot de tip int.
+
+Exemple:
+
+$> ./do_op "123" "*" 456 | cat -e
+56088$
+$> ./do_op "9828" "/" 234 | cat -e
+42$
+$> ./do_op "1" "+" "-43" | cat -e
+-42$
+$> ./do_op | cat -e
+$

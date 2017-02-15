@@ -1,0 +1,38 @@
+Exercitiu  : tab_mult
+Fisiere de iesire   : tab_mult.c
+Functii autorizate : write
+--------------------------------------------------------------------------------
+
+Scrieti un program ce afiseaza tabla inmultirii unui numar transmis ca parametru.
+
+Parametrul va fi intotdeauna un numar strict pozitiv de tip int si acest numar 
+multiplicat cu 9 va fi de tip int.
+
+Daca nu exista niciun parametru, programul va afisa '\n'.
+
+Exemplu:
+
+$>./tab_mult 9
+1 x 9 = 9
+2 x 9 = 18
+3 x 9 = 27
+4 x 9 = 36
+5 x 9 = 45
+6 x 9 = 54
+7 x 9 = 63
+8 x 9 = 72
+9 x 9 = 81
+$>./tab_mult 19
+1 x 19 = 19
+2 x 19 = 38
+3 x 19 = 57
+4 x 19 = 76
+5 x 19 = 95
+6 x 19 = 114
+7 x 19 = 133
+8 x 19 = 152
+9 x 19 = 171
+$>
+$>./tab_mult | cat -e
+$
+$>

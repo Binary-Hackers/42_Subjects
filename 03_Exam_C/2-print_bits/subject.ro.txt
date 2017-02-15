@@ -1,0 +1,12 @@
+Assignment name  : print_bits
+Expected files   : print_bits.c
+Allowed functions: write
+--------------------------------------------------------------------------------
+
+Scrieti o functie care primeste un byte si afiseaza byte-ul in binar FARA LINIE NOUA LA SFARSTI.
+
+Functia trebuie declarata ca si mai jos:
+
+void	print_bits(unsigned char octet);
+
+Exemplu, daca trimiteti 2 functiei print_bits, va afisa "00000010"

@@ -1,0 +1,11 @@
+Exercitiu  : ft_strlen
+Fisiere de iesire  : ft_strlen.c
+Functii autorizate : 
+--------------------------------------------------------------------------------
+
+Reproduceti comportamentul functiei strlen (man strlen).
+
+Functia voastra va trebui sa aiba prototipul urmator:
+
+int	ft_strlen(char *str);
+

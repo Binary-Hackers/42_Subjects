@@ -1,0 +1,24 @@
+Exercitiu  : ft_list_foreach
+Fisiere de iesire  : ft_list_foreach.c, ft_list.h
+Functii autorizate :
+--------------------------------------------------------------------------------
+
+Scrieti o functie ce ia ca parametru o lista si un pointer la o functie, si 
+aplica functia la fiecare element al listei.
+
+Ea trebuie sa aiba prototipul urmator:
+
+	void    ft_list_foreach(t_list *begin_list, void (*f)(void *));
+	
+Functia point-ata de f va fi utilizata in modul urmator:
+
+		(*f)(list_ptr->data);
+
+Trebuie sa utilizati structura urmatoare, si sa o predati/livrati intr-un 
+fisier ft_list.h:
+
+typedef struct    s_list
+{
+    struct s_list *next;
+    void          *data;
+}                 t_list;

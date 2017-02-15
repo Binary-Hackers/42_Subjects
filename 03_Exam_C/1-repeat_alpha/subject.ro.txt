@@ -1,0 +1,29 @@
+Exercitiu  : repeat_alpha
+Fisiere de iesire  : repeat_alpha.c
+Functii autorizate : write
+--------------------------------------------------------------------------------
+
+Scrieti un program numit repeat_alpha care primeste un sir de caractere si il
+afiseaza repetand fiecare caracter alfabetic de atatea ori cat indexul sau
+alfabetic, urmat de un '\n'.
+
+'a' becomes 'a', 'b' becomes 'bb', 'e' becomes 'eeeee', etc...
+
+Majusculele raman neschimbate.
+
+Daca numarul de argumente nu e 1, programul afiseaza '\n'.
+
+Exemple:
+
+$>./repeat_alpha "abc"
+abbccc
+$>./repeat_alpha "Alex." | cat -e
+Alllllllllllleeeeexxxxxxxxxxxxxxxxxxxxxxxx.$
+$>./repeat_alpha 'abacadaba 42!' | cat -e
+abbacccaddddabba 42!$
+$>./repeat_alpha | cat -e
+$
+$>
+$>./repeat_alpha "" | cat -e
+$
+$>

@@ -1,0 +1,31 @@
+Exercitiu  : sort_list
+Fisiere de iesire  : sort_list.c
+Functii autorizate : 
+--------------------------------------------------------------------------------
+
+Scrieti functia urmatoare:
+
+		t_list	*sort_list(t_list* lst, int (*cmp)(int, int));
+
+Aceasta functie trebuie sa sorteze lista transmisa ca prim parametru, utilizand 
+un pointer spre functia cmp pentru a determina ordinea de aplicare, si 
+returneaza un pointer spre primul element al listei sortate.
+
+Dublurile trebuie pastrate.
+
+Valorile de intrare vor fi totdeauna coerente.
+
+Trebuie sa utilizati tipul t_list descris in fisierul list.h care va va fi furnizat. 
+Trebuie sa includeti (#include "list.h") acest fisier, dar nu trebuie sa predati 
+acest fisier. Vom olosi fisierul nostru pentru compilarea exercitiului.
+
+Functiile transmise ca cmp vor returna intodeauna o valoare diferita de 0 daca a si 
+b sunt in ordinea corespunzatoare, in caz contrar ele vor returna 0.
+
+De exemplu, functia urmatoare utilizata ca cmp trebuie sa permita trierea listei 
+in ordine crescatoare:
+
+int ascending(int a, int b)
+{
+	return (a <= b);
+}

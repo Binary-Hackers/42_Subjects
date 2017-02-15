@@ -1,0 +1,31 @@
+Assignment name  : rostring
+Expected files   : rostring.c
+Allowed functions: write, malloc, free
+--------------------------------------------------------------------------------
+
+Écrire un programme qui prend en paramètre une chaîne de caractères, et qui
+affiche cette chaîne en procédant à une rotation d'un mot de droite à gauche.
+
+Ainsi, le premier mot se retrouver le dernier et les autres restent dans l'ordre.
+
+On appelle "mot" une portion de chaîne de caractères délimitée soit par des
+espaces et/ou des tabulations, soit par le début / fin de la chaîne.
+
+Les mots seront affichés séparés par un seul et unique espace.
+
+Si le nombre de paramètres est inférieur à 1, le programme devra afficher '\n'.
+
+Exemple:
+
+$>./rostring "abc   " | cat -e
+abc$
+$>
+$>./rostring "Que la      lumiere soit et la lumiere fut"
+la lumiere soit et la lumiere fut Que
+$>
+$>./rostring "     AkjhZ zLKIJz , 23y"
+zLKIJz , 23y AkjhZ
+$>
+$>./rostring | cat -e
+$
+$>

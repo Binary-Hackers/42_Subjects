@@ -1,0 +1,19 @@
+Exercitiu  : print_hex
+Fisiere de iesire   : print_hex.c
+Functii autorizate : write
+--------------------------------------------------------------------------------
+
+Scrieti un program care primeste un numar (baza 10) mai mare ca -1 ca sir de 
+caractere si afiseaza numarul in hexazecimal (baza 16) urmat de un '\n'.
+Daca numarul parametrilor nu e 1, programul afiseaza '\n'.
+
+Example:
+
+$> ./print_hex "10" | cat -e
+A$
+$> ./print_hex "255" | cat -e
+FF$
+$> ./print_hex "5156454" | cat -e
+4EAE66$
+$> ./print_hex | cat -e
+$
